@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @aryaarya45
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Function: transfer(address recipient, uint256 amount)
 
-<!---
-aryaarya45/aryaarya45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MethodID: 0xa9059cbb
+[0]:  00000000000000000000000016a6e760378ceec946230229104ede00d78d7c99
+[1]:  0000000000000000000000000000000000000000000000009b855713b8eecc00
